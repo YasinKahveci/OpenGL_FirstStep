@@ -1,5 +1,5 @@
 # OpenGL First Steps
-<h4>I learned the lessons from Kayhan Ayar Youtube Channel:</h4>  https://www.youtube.com/watch?v=_MhmHNbnhSs&list=PLIM5iw4GHbNW2nleNK5XIvyhZzGiaiBfp
+<h4>I learned the lessons from Kayhan Ayar Youtube Channel:</h4> https://bit.ly/3nykEYm
 <h3>Ders01</h3>
 <img src="_ScreenShots/1.PNG">
 <h3>Ders02</h3>
